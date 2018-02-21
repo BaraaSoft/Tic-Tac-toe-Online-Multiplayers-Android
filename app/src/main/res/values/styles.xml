@@ -16,6 +16,10 @@
         <item name="android:textColor">#CC213E</item>
         <item name="android:fontFamily">@font/frijole</item>
     </style>
+    <style name="ListItemTheme" parent="AppTheme">
+        <item name="android:textColor">@color/primary_text_light</item>
+        <item name="android:background">@color/light_separator</item>
+    </style>
 
 
 
